@@ -1,10 +1,11 @@
-Unique ID,Indicator ID,Name,Measure,Measure Info,Geo Type Name,Geo Join ID,Geo Place Name,Time Period,Start_Date,Unnamed: 10,Predicted Data Value
-170430,365,Fine particles (PM 2.5),Mean,mcg/m3,CD,307,Sunset Park (CD7),Annual Average 2013,2012-12-01,,9.254909
-410984,365,Fine particles (PM 2.5),Mean,mcg/m3,CD,107,Upper West Side (CD7),Winter 2015-16,2015-12-01,,9.100128
-411022,365,Fine particles (PM 2.5),Mean,mcg/m3,CD,207,Kingsbridge Heights and Bedford (CD7),Annual Average 2016,2015-12-31,,7.7240567
-169545,365,Fine particles (PM 2.5),Mean,mcg/m3,CD,307,Sunset Park (CD7),Summer 2013,2013-06-01,,10.947133
-170455,365,Fine particles (PM 2.5),Mean,mcg/m3,CD,414,Rockaway and Broad Channel (CD14),Annual Average 2013,2012-12-01,,7.7765183
-742560,365,Fine particles (PM 2.5),Mean,mcg/m3,CD,414,Rockaway and Broad Channel (CD14),Annual Average 2021,2021-01-01,,5.682036
-547765,365,Fine particles (PM 2.5),Mean,mcg/m3,CD,414,Rockaway and Broad Channel (CD14),Annual Average 2017,2017-01-01,,6.3739667
-168567,365,Fine particles (PM 2.5),Mean,mcg/m3,CD,414,Rockaway and Broad Channel (CD14),Winter 2010-11,2010-12-01,,10.371031
-169334,365,Fine particles (PM 2.5),Mean,mcg/m3,CD,414,Rockaway and Broad Channel (CD14),Summer 2009,2009-06-01,,9.588758
+Unique ID,Indicator ID,Name,Measure,Measure Info,Geo Type Name,Geo Join ID,Geo Place Name,Time Period,Start_Date,Data Value,Message,Predicted Data Value
+877201,375,Nitrogen dioxide (NO2),Mean,ppb,CD,313,Coney Island (CD13),Winter 2022-23,2022-12-01,,,17.232317
+877199,375,Nitrogen dioxide (NO2),Mean,ppb,CD,313,Coney Island (CD13),Annual Average 2023,2023-01-01,,,12.634091
+411130,365,Fine particles (PM 2.5),Mean,mcg/m3,CD,413,Queens Village (CD13),Annual Average 2016,2015-12-31,,,6.4872127
+606056,365,Fine particles (PM 2.5),Mean,mcg/m3,CD,413,Queens Village (CD13),Annual Average 2018,2018-01-01,,,6.248628
+828064,661,Asthma hospitalizations due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",UHF42,104,Pelham - Throgs Neck,2017-2019,2017-01-01,,,2.6360548
+817262,645,Annual vehicle miles traveled (trucks),Million miles,per square mile,CD,207,Kingsbridge Heights and Bedford (CD7),2019,2019-01-01,,,6.0363345
+827592,650,Respiratory hospitalizations due to PM2.5 (age 20+),Estimated annual rate,"per 100,000 adults",UHF42,204,East New York,2017-2019,2017-01-01,,,8.305929
+827581,650,Respiratory hospitalizations due to PM2.5 (age 20+),Estimated annual rate,"per 100,000 adults",Borough,5,Staten Island,2017-2019,2017-01-01,,,10.101985
+827540,639,Deaths due to PM2.5,Estimated annual rate (age 30+),"per 100,000 adults",UHF42,404,Bayside - Little Neck,2017-2019,2017-01-01,,,23.523848
+130358,639,Deaths due to PM2.5,Estimated annual rate (age 30+),"per 100,000 adults",UHF42,104,Pelham - Throgs Neck,2005-2007,2005-01-01,,,71.16249

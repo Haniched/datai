@@ -12,7 +12,6 @@ from keras.layers import Dense
 
 df = pd.read_csv("Air_Quality.csv")
          
-df = df.loc[df['Name'] == 'Fine particles (PM 2.5)']
 df['Start_Date'] = pd.to_datetime(df['Start_Date'])
 
 # Data handling
