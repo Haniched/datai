@@ -1,0 +1,10 @@
+Unique ID,Indicator ID,Name,Measure,Measure Info,Geo Type Name,Geo Join ID,Geo Place Name,Time Period,Start_Date,Unnamed: 10,Predicted Data Value
+170430,365,Fine particles (PM 2.5),Mean,mcg/m3,CD,307,Sunset Park (CD7),Annual Average 2013,2012-12-01,,9.254909
+410984,365,Fine particles (PM 2.5),Mean,mcg/m3,CD,107,Upper West Side (CD7),Winter 2015-16,2015-12-01,,9.100128
+411022,365,Fine particles (PM 2.5),Mean,mcg/m3,CD,207,Kingsbridge Heights and Bedford (CD7),Annual Average 2016,2015-12-31,,7.7240567
+169545,365,Fine particles (PM 2.5),Mean,mcg/m3,CD,307,Sunset Park (CD7),Summer 2013,2013-06-01,,10.947133
+170455,365,Fine particles (PM 2.5),Mean,mcg/m3,CD,414,Rockaway and Broad Channel (CD14),Annual Average 2013,2012-12-01,,7.7765183
+742560,365,Fine particles (PM 2.5),Mean,mcg/m3,CD,414,Rockaway and Broad Channel (CD14),Annual Average 2021,2021-01-01,,5.682036
+547765,365,Fine particles (PM 2.5),Mean,mcg/m3,CD,414,Rockaway and Broad Channel (CD14),Annual Average 2017,2017-01-01,,6.3739667
+168567,365,Fine particles (PM 2.5),Mean,mcg/m3,CD,414,Rockaway and Broad Channel (CD14),Winter 2010-11,2010-12-01,,10.371031
+169334,365,Fine particles (PM 2.5),Mean,mcg/m3,CD,414,Rockaway and Broad Channel (CD14),Summer 2009,2009-06-01,,9.588758
